@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @2500alan
 - 👀 I’m interested in ... dominate the world
 - 🌱 I’m currently learning ...I constantly continue training in the use of .NET and PHP
-- 💞️ I’m looking to collaborate on ... Oleofinos and SmartRaccoon
 - 📫 How to reach me ...alan.para@oleofinos.com.mx
 - ⚡ Fun fact: ...I don't sleep much
